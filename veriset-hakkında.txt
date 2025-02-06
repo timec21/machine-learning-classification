@@ -1,0 +1,1 @@
+Sklearn kütüphanesi tarafından sağlanan Breast Cancer (Meme Kanseri) Veri Seti'ni kullandım. Buradaki verileri json formatında kaydettim ve gönderdim. 
